@@ -19,7 +19,7 @@ const Minnumbers = numbers.reduce(function (a, b) {
     return Math.min(a, b)
 })
 console.log(Maxnumbers);
-console.log(Minnumbers);
+console.log(Minnumbers);    
 
 
 console.log(Math.max.apply(numbers));
